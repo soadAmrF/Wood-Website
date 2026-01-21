@@ -1,0 +1,10 @@
+1. npm i react-router-dom
+2. npm i i18next react-i18next --legacy-peer-deps
+3. npm i bootstrap --legacy-peer-deps
+4. npm install bootstrap-icons
+5. npm install react-icons --legacy-peer-deps
+6. npm install react-bootstrap  --legacy-peer-deps
+7. npm install swiper --legacy-peer-deps
+8. npm install aos --legacy-peer-deps
+9. npm install i18next react-i18next --legacy-peer-deps
+10. npm install react-slick slick-carousel --legacy-peer-deps
